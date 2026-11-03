@@ -3,7 +3,17 @@ entries:
   ocular-runner:
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2026-11-02T18:25:31.766839-08:00"
+    created: "2026-11-02T18:48:04.098236-08:00"
+    description: Studio Runner with a Docker-in-Docker sidecar, for a Porter EKS cluster.
+    digest: 9b1a75a0979e1a311c04abc171f181914f451f3be450db2e9922dc7cd3ac585e
+    name: ocular-runner
+    type: application
+    urls:
+    - https://ocularengineering.github.io/ocular-helm-charts/ocular-runner-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
+    appVersion: 0.1.2
+    created: "2026-11-02T18:48:04.097978-08:00"
     description: Studio Runner with a Docker-in-Docker sidecar, for a Porter EKS cluster.
     digest: a0ee635d6967e5acb387d330fcabca9eb59546d39d10d01ac116b84b4a04ec34
     name: ocular-runner
@@ -13,7 +23,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-11-02T18:25:31.766404-08:00"
+    created: "2026-11-02T18:48:04.097594-08:00"
     description: Studio Runner with a Docker-in-Docker sidecar, for a Porter EKS cluster.
     digest: be9a5949332b16d63e87584f1ba2507ff35e3aff67a64d63cdcaafa44680fca3
     name: ocular-runner
@@ -23,7 +33,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-11-02T18:25:31.766059-08:00"
+    created: "2026-11-02T18:48:04.097194-08:00"
     description: Studio Runner with a Docker-in-Docker sidecar, for a Porter EKS cluster.
     digest: c1b7e1afb0def23caa5623d89bfec0ca05a630116fa6df3b878be7a789648480
     name: ocular-runner
@@ -33,7 +43,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-11-02T18:25:31.765745-08:00"
+    created: "2026-11-02T18:48:04.096291-08:00"
     description: Studio Runner with a Docker-in-Docker sidecar, for a Porter EKS cluster.
     digest: c5c84bfbccda7188115a8924122008fad905029e3a13467216fed59ba8d20522
     name: ocular-runner
@@ -41,4 +51,4 @@ entries:
     urls:
     - https://ocularengineering.github.io/ocular-helm-charts/ocular-runner-0.1.0.tgz
     version: 0.1.0
-generated: "2026-11-02T18:25:31.765211-08:00"
+generated: "2026-11-02T18:48:04.095561-08:00"
