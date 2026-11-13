@@ -3,6 +3,16 @@ entries:
   ocular-runner:
   - apiVersion: v2
     appVersion: 0.1.5
+    created: "2026-11-13T04:00:33.139924076Z"
+    description: Studio Runner with a Docker-in-Docker sidecar, for a Porter EKS cluster.
+    digest: a5cf05254c1e886cea13790d70322bc3f8ebc53409446998fc15c520b8d7abe5
+    name: ocular-runner
+    type: application
+    urls:
+    - https://ocularengineering.github.io/ocular-helm-charts/ocular-runner-0.4.3.tgz
+    version: 0.4.3
+  - apiVersion: v2
+    appVersion: 0.1.5
     created: "2026-11-11T05:17:00.250790084Z"
     description: Studio Runner with a Docker-in-Docker sidecar, for a Porter EKS cluster.
     digest: 6ba2b16e95f075db2db260c8a89cdbe0a55f48bc8df2fdf7954cd5b1721c61f4
@@ -181,4 +191,4 @@ entries:
     urls:
     - https://ocularengineering.github.io/ocular-helm-charts/ocular-runner-0.1.0.tgz
     version: 0.1.0
-generated: "2026-11-11T05:17:00.250108127Z"
+generated: "2026-11-13T04:00:33.139428591Z"
